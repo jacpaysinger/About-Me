@@ -5,7 +5,7 @@ I'm Jac — an <a href="https://linkedin.com/in/jacpaysinger">IT Professional</a
 
 <h2>🤳🏽Connect with me:</h2>
 
-[<img align="left" alt="Jac | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/jacpaysinger
+<a href="https://www.linkedin.com/in/jacpaysinger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/technicallyjac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
