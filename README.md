@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=D279C9&center=true&vCenter=true&repeat=false&width=600&height=85&lines=%40TECHNICALLYJAC"/></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=0&color=D279C9&center=true&vCenter=true&repeat=false&width=600&height=85&lines=%40TECHNICALLYJAC"/></a>
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D279C9&center=true&vCenter=true&width=500&height=30&lines=What+your+mind+can+think...;You+can+do.;Lover+of+all+things+TECH+%3C3" alt="Typing SVG" /></a>
