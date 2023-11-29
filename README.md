@@ -20,7 +20,7 @@ Hello, World! I'm Jac, an IT Professional and Cybersecurity student. Welcome to 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/technicallyjac/ticket-lifecycle)
     
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines for Windows and Linux in Microsoft Azure; and Configuring NSGs](https://github.com/technicallyjac/azure-creatingVMs/blob/main/README.md?plain=1))
+  - [Creating Virtual Machines for Windows and Linux in Microsoft Azure; and Configuring NSGs](https://github.com/technicallyjac/azure-creatingVMs/blob/main/README.md?plain=1)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/technicallyjac/azure-network-protocols)
     
 <h2>👩🏽‍💻 Some of my skills include:</h2>
