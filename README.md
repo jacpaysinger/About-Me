@@ -4,7 +4,7 @@
 </br>
 </p>
 <p align="center" "style="color: #FFDEAD">
-Hello, World! I'm Jac, an IT Professional and Cybersecurity student. Welcome to my GitHub! 
+Hello, World! I'm Jac, an IT professional with a passion for securing data. Welcome to my GitHub! 
 </p>
 </br>
 
