@@ -21,7 +21,6 @@ Hello, World! I'm Jac, an IT professional with a passion for securing data. Welc
 
 - <b>Microsoft Power Platform</b>
  
-  - [Creating a Department Resource Guide in Power Apps](https://github.com/jacpaysinger/CanvasApp-Powerapps-Project01.git)
   - [Creating a State References Resource in Power Apps](https://github.com/jacpaysinger/CanvasApp-Powerapps-Project02.git)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
