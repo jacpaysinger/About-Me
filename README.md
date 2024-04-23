@@ -21,8 +21,8 @@ Hello, World! I'm Jac, an IT professional with a passion for securing data. Welc
 
 - <b>Microsoft Power Platform</b>
  
-  - [Creating a Department Resource Guide in Power Platform](https://github.com/jacpaysinger/CanvasApp-Powerapps-Project01.git)
-  - 
+  - [Creating a Department Resource Guide in Power Apps](https://github.com/jacpaysinger/CanvasApp-Powerapps-Project01.git)
+  - [Creating a State References Resource in Power Apps](https://github.com/jacpaysinger/CanvasApp-Powerapps-Project02.git)
   
 <h2>👩🏽‍💻 Some of my skills include:</h2>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a> </p>
